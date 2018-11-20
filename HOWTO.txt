@@ -1,0 +1,6 @@
+Requête pour le POST /users :
+
+{
+	username: 'yourusername',
+	password: 'yourpassword'
+}
